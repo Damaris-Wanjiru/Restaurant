@@ -1,0 +1,198 @@
+/* #f59329 */
+.list{
+    list-style: none;
+    display: flex;
+}
+.orange{
+    background-color:#f59329 ;
+    color: white;
+    margin-left: 1rem; ;
+    height: 1;
+    border: none;
+    margin: 0.5rem;
+    padding:0 1rem;
+
+}
+.logo{
+    height: 1.5rem;
+    border-radius: 50px;
+    margin-top: 1rem;
+    border: 1px solid black;
+
+}
+.heading{
+    color: #f59329;
+    padding: 0 .3rem;
+
+}
+.damar{
+    display: flex;
+    padding: 0 3rem;
+}
+nav{
+    display: flex;
+    opacity: .7;
+    background-color: #6a6151;
+    height: 3rem;
+    justify-content: space-between;
+}
+.nav-elements{
+    display: flex;
+    margin-right: 3rem ;
+}
+nav>div>ul>li{
+    margin: 0 1rem;
+    color: white;
+}nav>div>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.home{
+    background-image: url(img/image2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    height: 50vh;
+    margin: 0;
+   
+
+}
+.premium{
+    color: white;
+    padding: 3rem;
+
+}
+.order{
+    color:white;
+    background-color: #f59329;
+    border: none;
+    padding: 0.5rem 1rem;
+}
+section>div>p{
+    line-height: 3rem;
+    font-size: 3rem;
+}
+.servicies{
+    height: auto;
+    background-color: #e5e5e5;
+    text-align: center;
+    margin: 0;   border: 1px solid #e5e5e5;
+
+}
+.serve{
+    color:#f59329;
+}
+.card{
+    background-color: white;
+    height: 15rem;
+    width: 15rem;
+    margin: 1rem;
+    text-align: center;
+
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 3.5rem;
+}
+.one{
+    border-radius: 50px;
+    background-color: #f59329;
+    color: white;
+    width: 2rem;
+    margin: 1rem 6rem;
+}
+.reviews{
+    height: auto;
+   
+}
+.review-image{
+    background-image: url(img/image1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30rem;
+    width: 50vw;
+  
+
+}
+.rev{
+    text-align: center;
+    width: 50vw;
+    background-color: black;
+    color: #e5e5e5;
+
+   
+}
+.review{
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+.menu{
+ 
+    height: auto;
+    background-color: #e5e5e5 ;
+    border: 1px solid #e5e5e5;
+
+}
+.menuu{
+    text-align: center;
+}
+.card1{
+    height: 13rem;
+    width: 20rem;
+    margin: 1rem;
+    background-color:white;
+    display: flex;
+}
+.card-holder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.chapati{
+    height: 12rem;
+    width: 7.5rem;
+    margin: .5rem;
+}
+.hati{
+    margin-left: .5rem;
+}
+.orders{
+    border: none;   
+    padding: 0.5rem 1rem;
+}
+.ksh{
+    color: #f59329;
+}
+.moringa{
+    text-align: center;
+    background-image: url(img/image8.png);
+    height: 20rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    border-top: 1px solid #e5e5e5;
+}
+.book{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 0.2rem 1.5rem;
+}
+.table{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.moringa>h3{
+    margin-top: 5rem;
+}
+.footer{
+    text-align: center;
+    height: 2rem;
+    padding-top: 1rem;
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
